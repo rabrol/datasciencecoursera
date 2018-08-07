@@ -1,0 +1,19 @@
+getwd()
+getwd()
+x <- 5
+x
+print(x)
+install.packages("KernSmooth R")
+install.packages("KernSmooth R")
+clear
+clear()
+getwd()
+install.packages("KernSmooth")
+library(KernSmooth)
+exit
+exit()
+getwd()
+touch HelloWorld.md
+HelloWorld.md
+ls()
+git add .
